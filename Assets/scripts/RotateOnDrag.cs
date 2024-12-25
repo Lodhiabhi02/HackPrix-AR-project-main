@@ -37,6 +37,7 @@ public class RotateOnDrag : MonoBehaviour
             isRotating = false; // Stop rotating
             if (uiElement != null)
                 uiElement.SetActive(true); // Show the UI element
+                // this is the just a random comment for testing
         }
     }
 }
